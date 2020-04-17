@@ -1,0 +1,3 @@
+z="
+";Mz='all ';gz='NE✓"';bz='s';Yz='uest';Gz='& ap';Jz='e';Kz='pkg ';Rz='pip ';Oz='on';Pz='on2';Dz='apt ';fz=' "DO';cz='wget';Qz='on3';Zz='pip3';Az='echo';Tz='est';Ez='upda';Bz='clea';Wz='tall';Xz=' req';Fz='te &';Hz='t up';ez='t';Lz='inst';az='ests';Nz='pyth';Iz='grad';dz=' wge';Sz='requ';Cz='r';Uz='pip2';Vz=' ins';
+eval "$Az$z$Bz$Cz$z$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$Oz$z$Kz$Lz$Mz$Nz$Pz$z$Kz$Lz$Mz$Nz$Qz$z$Rz$Lz$Mz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$z$Zz$Vz$Wz$Xz$Yz$z$Rz$Lz$Mz$Sz$az$z$Uz$Vz$Wz$Xz$Yz$bz$z$Zz$Vz$Wz$Xz$Yz$bz$z$Rz$Lz$Mz$cz$z$Uz$Vz$Wz$dz$ez$z$Zz$Vz$Wz$dz$ez$z$Az$z$Az$fz$gz"
